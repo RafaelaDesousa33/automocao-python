@@ -22,5 +22,5 @@ Python instalado no seu sistema: https://www.python.org/downloads/
 
 Pip instalado para gerenciar pacotes.
 
-A biblioteca pyautogui instalada (veja a seção abaixo).
+
 
